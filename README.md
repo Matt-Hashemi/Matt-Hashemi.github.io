@@ -1,10 +1,3 @@
-# Matt Hashemi
-
-**Location:** San Francisco Bay Area  
-**Phone:** (415) 636-9653  
-**Email:** matt.hashemi.info@gmail.com  
-**LinkedIn:** [linkedin.com/in/matt-hashemi/](https://linkedin.com/in/matt-hashemi/)
-
 ## Professional Summary
 
 Senior Staff Software Engineer with 16+ years of experience specializing in IoT solutions, distributed systems, and cloud architecture. Proven expertise in leading enterprise-scale projects, big data processing, and time series data management. Track record of modernizing legacy systems, implementing cloud solutions, and mentoring engineering teams, resulting in significant performance improvements and cost savings.
