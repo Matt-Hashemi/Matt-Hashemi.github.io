@@ -1,5 +1,5 @@
 title: Matt Hashemi
-logo: /assets/img/headshot_circle.png
+logo: assets/img/headshot_circle.png
 description: |
   Senior Staff Software Engineer  
   **Location:** San Francisco Bay Area  
@@ -7,3 +7,4 @@ description: |
   **Email:** matt.hashemi.info@gmail.com  
   **LinkedIn:** [linkedin.com/in/matt-hashemi/](https://linkedin.com/in/matt-hashemi/)
 theme: jekyll-theme-minimal
+custom_css: assets/css/style.css
